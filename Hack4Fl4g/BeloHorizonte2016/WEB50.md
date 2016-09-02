@@ -27,3 +27,4 @@ Author: Marcio Motta
 Com esse código foi possível rodar de modo "semi-automático" um parsing da página e no fim chegar na flag.
 
 Infelizmente não há um registro da flag. =( mas isso ai trazia ela com certeza!
+O próprio enunciado já sugeria de "hackear" a página. A primeira idéia  já foi criar um script que automatizasse a tarefa
