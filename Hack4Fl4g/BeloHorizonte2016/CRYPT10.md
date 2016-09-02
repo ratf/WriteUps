@@ -3,7 +3,9 @@
 **O problema**
 
 Descobrimos essa string. Ela parece bastante familiar, mas algo está invertido. Você consegue descobrir o que é?
+```
 q3j5ChrVideWig1HAxmGzSOHy2LSihf1zsb0AxjHCIbKB2nLigrLignYAwfUW6DHlI4UigrLC2vJE3iZDJnYCZnFyMfZzty0FqO=
+```
 
 
 **Resolução**
