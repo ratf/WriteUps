@@ -1,0 +1,7 @@
+import requests
+
+r = requests.get('desec.com.br')
+print data
+
+
+desec{py_show_me}
